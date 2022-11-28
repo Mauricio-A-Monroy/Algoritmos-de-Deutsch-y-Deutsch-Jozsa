@@ -1,5 +1,6 @@
 # Libreria del algoritmo de Deutsch y Deutsch-Jozsa
-#### En esta librería se encuentra 7 códigos, los 4 primeros (Funcion_a, Funcion_b, Funcion_c y Funcion_d) corresponden a las funciones que pueden ser utilizadas para usar el algoritmo de Deutsch, las otras 3 (funcion_a2, funcion_b2 y funcion_c2) don funciones que pueden utilizarse en el algoritmo de Deutsch-Jozsa. Los 7 códigos tienen la siguiente estructura:
+#### En esta librería se encuentra 7 códigos, los 4 primeros (Funcion_a, Funcion_b, Funcion_c y Funcion_d) corresponden a las funciones que pueden ser utilizadas para usar el algoritmo de Deutsch, las otras 3 (funcion_a2, funcion_b2 y funcion_c2) son funciones que pueden utilizarse en el algoritmo de Deutsch-Jozsa. 
+#### Los 7 códigos tienen la siguiente estructura:
 - Creación de la matriz correspondiente a la función.
 - Creación del circuito para cada uno de los casos.
 - Llenar la matriz con unos en las posiciones correctas.
